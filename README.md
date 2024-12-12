@@ -9,25 +9,18 @@
 </a>
 <br/>
 
-Contributer at Student Code-in | Contributer at PClub Summer Of Code | Data Science | Machine Learning | Deep Learning | Android Development | Java | Python | Competitive Programming
+Data Analyst | Data Science | Machine Learning  | SQL | Python | Competitive Programming |MongoDB|
 
 ## About :sunglasses:
-B.tech 3rd year Computer Science student. Currently working as a Contributor in Open Source organization Student Code-in and PClub Summer Of Code. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Android Development and Data Analysis.
-
-## Communities :dancers:
-- Contributer at [Student Code-in](https://scodein.tech/) ( An Open Source organization.)
-- Contributer at [PClub Summer Of Code](http://pclubsummerofcode.in/) ( ( An Open Source organization.)
-- Campus Ambassador at [HackerEarth](https://www.hackerearth.com/challenges/)
+Computer Science student. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Data Analysis.
 
 ## Technologies :fire:
 - Data Analysis with **Python**.
 - Data Science.
-- Mobile application development using **Android (Java)**.
 - Python.
 - Java
 - Competitive Programming.
 - Machine Learning
-- Deep Learning
 
 **Languages and Tools:**  
 
