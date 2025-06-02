@@ -18,7 +18,6 @@ Computer Science student. Passionate about Data Science, Machine Learning and op
 - Data Analysis with **Python**.
 - Data Science.
 - Python.
-- Java
 - Competitive Programming.
 - Machine Learning
 
