@@ -12,15 +12,18 @@
 Data Analyst | Data Science | Machine Learning  | SQL | Python | Competitive Programming |MongoDB|
 
 ## About :sunglasses:
-Computer Science student. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Data Analysis.
+Computer Science student. Passionate about Data Science,Data Analyst, Machine Learning and open source. Also, have some experience in Data Analysis.
 
 ## Technologies :fire:
 - Data Analysis with **Python**.
 - Data Science.
-- Python.
+- Python(pandas,numpy,seaborn,matplotlib,scikit-learn).
 - Competitive Programming.
 - Machine Learning
-
+- Excel,gooogle sheet,Power BI
+- SQL
+- MYSQL,MongoDB
+- Data Cleaning
 **Languages and Tools:**  
 
 <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
