@@ -24,7 +24,21 @@ Computer Science student. Passionate about Data Science,Data Analyst, Machine Le
 - SQL
 - MYSQL,MongoDB
 - Data Cleaning
-**Languages and Tools:**  
+**Languages and Tools:**
+
+## 📌 Projects  
+- **Fraud Detection in Financial Transactions** – Built ML models on 6M+ records, achieved **92%+ ROC-AUC**.  
+- **Stock Market Prediction** – Implemented LSTM & regression for time-series forecasting.  
+- **House Price Prediction** – Predictive analytics using regression models.  
+- **Spam Detection** – Text classification using ML algorithms & Django backend.  
+- **FIFA Player Analysis** – Exploratory data analysis with insights on performance metrics.  
+
+---
+
+## 🌱 Currently Exploring  
+- Generative AI & LLMs  
+- LoRA fine-tuning with Stable Diffusion  
+- Advanced NLP for intelligent applications 
 
 <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
