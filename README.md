@@ -12,7 +12,7 @@
 Data Analyst | Data Science | Machine Learning  | SQL | Python | Competitive Programming |MongoDB|
 
 ## About :sunglasses:
-Computer Science student. Passionate about Data Science,Data Analyst, Machine Learning and open source. Also, have some experience in Data Analysis.
+Computer Science student. Passionate about Data Science,Data Analyst, Machine Learning and open source. Also, have some experience in Data science .
 
 ## Technologies :fire:
 - Data Analysis with **Python**.
